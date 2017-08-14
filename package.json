@@ -1,5 +1,5 @@
 {
-  "name": "project-disaster-prevention",
+  "name": "bs4-vuecli",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -32,5 +32,14 @@
     "gulp-uglify": "^3.0.0",
     "main-bower-files": "^2.13.1"
   },
-  "devDependencies": {}
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/silverfantacy/Bootstrap4-VueCLI.git"
+  },
+  "bugs": {
+    "url": "https://github.com/silverfantacy/Bootstrap4-VueCLI/issues"
+  },
+  "homepage": "https://github.com/silverfantacy/Bootstrap4-VueCLI#readme",
+  "description": ""
 }
